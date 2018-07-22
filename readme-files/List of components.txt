@@ -1,0 +1,10 @@
+List of components
+
+	ï	(3) NPN ‘…P31 transistors
+	ï	(7) 220Ÿ Resistors 
+	ï	(1) 100nF ceramic capacitor
+	ï	(1) …R TSOP382 receiver 
+	ï	(1) …R remote controller
+	ï	(1) microhphone
+	ï	(1) 5m RGB LED strip
+	ï	(1) 12V 2amps power supply
